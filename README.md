@@ -61,3 +61,5 @@ Deploy an **e-commerce platform (OpenCart)** on a **Linux EC2 instance** using t
 Launching EC2 Instance
 <img width="613" alt="Image" src="https://github.com/user-attachments/assets/6bb0b7a5-085a-46ed-858d-d66b8a9d4935" />
 
+<img width="555" alt="Image" src="https://github.com/user-attachments/assets/29a4d74e-445f-4054-921b-fb6bc407245a" />
+
