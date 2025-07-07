@@ -63,3 +63,5 @@ Launching EC2 Instance
 
 <img width="555" alt="Image" src="https://github.com/user-attachments/assets/29a4d74e-445f-4054-921b-fb6bc407245a" />
 
+<img width="339" alt="Image" src="https://github.com/user-attachments/assets/ef675430-24a5-4b20-baad-1208a106b8d4" />
+
