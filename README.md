@@ -50,10 +50,10 @@ Deploy an **e-commerce platform (OpenCart)** on a **Linux EC2 instance** using t
    systemctl enable httpd
 
    cd /var/www/html
-   wget https://github.com/opencart/opencart/releases/download/3.0.3.8/opencart-3.0.3.8.zip
-   unzip opencart-3.0.3.8.zip
+   wget https://github.com/opencart/opencart/releases/download/4.1.0.3/opencart-4.1.0.3.zip
+   unzip opencart-4.1.0.3.zip
    cp -r upload/* .
-   rm -rf upload opencart-3.0.3.8.zip
+   rm -rf upload opencart-4.1.0.3.zip
 
    chown -R apache:apache /var/www/html
    chmod -R 755 /var/www/html
