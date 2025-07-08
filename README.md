@@ -100,3 +100,11 @@ Launching EC2 Instance
 <img width="967" alt="Image" src="https://github.com/user-attachments/assets/566e68c8-700b-4ab4-a95a-9c8868eeeef4" />
 
 <img width="953" alt="Image" src="https://github.com/user-attachments/assets/b08cee07-1e61-48b2-9218-abde5545a9ad" />
+
+<img width="951" height="255" alt="Image" src="https://github.com/user-attachments/assets/248d5958-6769-462e-8340-a8e9128399bb" />
+
+<img width="957" height="406" alt="Image" src="https://github.com/user-attachments/assets/7ca50520-1904-4268-9572-7847f91eb826" />
+
+<img width="931" height="404" alt="Image" src="https://github.com/user-attachments/assets/22230cd6-1c79-453a-b2e9-1a2fef629b30" />
+
+<img width="943" height="462" alt="Image" src="https://github.com/user-attachments/assets/42de621d-29cf-4159-8a1b-ca124171d9fc" />
