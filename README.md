@@ -1,4 +1,4 @@
-# 🖥️ Project 3: EC2 Lab – Deploy an E-Commerce Web Server (GUI Mode)
+# 🖥️ EC2 Lab – Deploy an E-Commerce Web Server (GUI Mode)
 
 ## 🎯 Goal
 
